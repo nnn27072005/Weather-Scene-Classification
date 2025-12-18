@@ -6,6 +6,10 @@ A Deep Learning application built with **PyTorch** and **Streamlit** that classi
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
 
+## Link app
+
+https://weather-scene-classification.streamlit.app/
+
 ## 📌 Features
 
 * **Dual Functionality:** Switch easily between two modes:
