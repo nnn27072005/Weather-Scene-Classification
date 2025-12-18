@@ -31,4 +31,6 @@ Weather-Scene-Classification/
 │   ├── model_weather.pth     # Trained model for weather (PyTorch full model)
 │   └── model_scenes.pth      # Trained model for scenes (PyTorch full model)
 ├── requirements.txt          # Python dependencies
+├── src                       
+│   ├── Weather-Scene.ipynb   
 └── README.md                 # Project documentation
